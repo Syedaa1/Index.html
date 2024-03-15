@@ -2,11 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
-    .banner {
-        background-color: #ff0000;
-        color: #ffffff;
-        padding: 10px;
-        text-align: center;
-        font-size: 1.5rem;
-        font-weight: bold;
+    
+    /* Create an amazing banner with better styling */
+    banner {
+      background-color: lightblue;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      border-radius: 5px;
     }
